@@ -25,6 +25,7 @@ Verificar se o docker está rodando
 
 Criação de uma imagem no Docker
 
+
 Imagem docker criada para servir como base de estudos ao servidor web apache.
 
 Utilizando o Docker
